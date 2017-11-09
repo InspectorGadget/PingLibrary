@@ -14,3 +14,8 @@ Example:
 		
 	?>
 ```
+
+Final Result:
+```
+326 ms
+```
