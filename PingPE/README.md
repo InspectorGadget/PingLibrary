@@ -11,5 +11,6 @@ Example:
 	require_once 'PingPE.php';
 
 		$api = new PingPE("jdcraft.net", 19132);
+		
 	?>
 ```
